@@ -1,0 +1,7 @@
+DirectoryIndex index2.php result.php result.css script.js sitemap.xml
+Options +Indexes
+AuthUserFile /home/salmonmarmot64/www/.htpasswd
+AuthType Basic
+AuthName "Web access"
+Satisfy all
+Order deny,allow
